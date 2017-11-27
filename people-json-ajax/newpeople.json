@@ -1,0 +1,12 @@
+{
+    "newpeople":[
+        {
+            "name":"Trans",
+            "age": 54
+        },
+        {
+            "name":"Jack",
+            "age": 27
+        }
+    ]
+}

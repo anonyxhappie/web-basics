@@ -1,0 +1,24 @@
+{
+    "people":[
+        {
+            "name":"Akshay",
+            "age": 22
+        },
+        {
+            "name":"Jai",
+            "age": 24
+        },
+        {
+            "name":"Asha",
+            "age": 26
+        },
+        {
+            "name":"Manish",
+            "age": 19
+        },
+        {
+            "name":"Bob",
+            "age": 33
+        }
+    ]
+}
